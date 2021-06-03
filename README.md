@@ -7,7 +7,7 @@
 | :---------: | :------------------------------------------------------------------------------------: |
 |     CPU     |                                     Intel i5-9600K                                     |
 | Motherboard |                               Gigabyte B365M D3H                                       |
-|   Graphic   |                                 Intel UHD Graphics 630                                 |
+|   Graphics   |                                 Intel UHD Graphics 630                                 |
 |   Memory    | Kingston Fury HyperX DDR4 1x32Gb                                             |
 |   Storage   |                                     Samsung 840PRO 512Gb  SATA SSD                                   |
 |    Audio    |                                     Realtek ALC892                                     |
