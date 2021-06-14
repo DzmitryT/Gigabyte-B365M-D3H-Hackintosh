@@ -7,7 +7,7 @@
 | :---------: | :------------------------------------------------------------------------------------: |
 |     CPU     |                                     Intel i5-9600K                                     |
 | Motherboard |                               Gigabyte B365M D3H                                       |
-|   Graphic   |                                 Intel UHD Graphics 630                                 |
+|   Graphic   |                                 Intel UHD Graphics 630 + PowerColor Radeon R7 370 2Gb  |
 |   Memory    | Kingston Fury HyperX DDR4 1x32Gb                                             |
 |   Storage   |                                     Samsung 840PRO 512Gb  SATA SSD                                   |
 |    Audio    |                                     Realtek ALC892                                     |
@@ -19,7 +19,7 @@
 
 * Sleep/WakeUP issues
 * HDMI issues
-* 4k resolution is not supported
+* 4k resolution supported via external GPU
 * VoodoPS2 kext is required for PS/2 input devices
 
 ## Bootloader requirements
