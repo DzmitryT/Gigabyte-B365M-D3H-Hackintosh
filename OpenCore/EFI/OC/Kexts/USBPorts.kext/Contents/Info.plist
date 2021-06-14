@@ -48,7 +48,7 @@
 				<integer>5100</integer>
 				<key>port-count</key>
 				<data>
-				GAAAAA==
+				GgAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
@@ -57,7 +57,7 @@
 						<key>Comment</key>
 						<string>Back panel USB 3.0 (2.0 mode)</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS01</string>
 						<key>port</key>
@@ -70,7 +70,7 @@
 						<key>Comment</key>
 						<string>Back panel USB 3.0 (2.0 mode)</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS02</string>
 						<key>port</key>
@@ -83,7 +83,7 @@
 						<key>Comment</key>
 						<string>Back panel USB-C</string>
 						<key>UsbConnector</key>
-						<integer>10</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS03</string>
 						<key>port</key>
@@ -107,7 +107,7 @@
 						<key>Comment</key>
 						<string>Back panel USB 3.0 (2.0 mode)</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS05</string>
 						<key>port</key>
@@ -133,7 +133,7 @@
 						<key>Comment</key>
 						<string>Front Panel USB 3.0 (2.0 mode)</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS07</string>
 						<key>port</key>
@@ -146,7 +146,7 @@
 						<key>Comment</key>
 						<string>Front Panel USB 3.0 (2.0 mode)</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS08</string>
 						<key>port</key>
@@ -159,7 +159,7 @@
 						<key>Comment</key>
 						<string>Internal1 USB 2.0</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS09</string>
 						<key>port</key>
@@ -172,7 +172,7 @@
 						<key>Comment</key>
 						<string>Internal1 USB 2.0</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS10</string>
 						<key>port</key>
@@ -185,7 +185,7 @@
 						<key>Comment</key>
 						<string>Internal2 USB 2.0</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS11</string>
 						<key>port</key>
@@ -198,7 +198,7 @@
 						<key>Comment</key>
 						<string>Internal2 USB 2.0</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS12</string>
 						<key>port</key>
@@ -211,7 +211,7 @@
 						<key>Comment</key>
 						<string>Back panel USB 2.0</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS13</string>
 						<key>port</key>
@@ -224,7 +224,7 @@
 						<key>Comment</key>
 						<string>Back panel USB 2.0</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS14</string>
 						<key>port</key>
@@ -269,6 +269,28 @@
 						EwAAAA==
 						</data>
 					</dict>
+					<key>SS04</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>name</key>
+						<string>SS04</string>
+						<key>port</key>
+						<data>
+						FAAAAA==
+						</data>
+					</dict>
+					<key>SS05</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>name</key>
+						<string>SS05</string>
+						<key>port</key>
+						<data>
+						FQAAAA==
+						</data>
+					</dict>
 					<key>SS06</key>
 					<dict>
 						<key>Comment</key>
@@ -306,6 +328,28 @@
 						<key>port</key>
 						<data>
 						GAAAAA==
+						</data>
+					</dict>
+					<key>SS09</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>name</key>
+						<string>SS09</string>
+						<key>port</key>
+						<data>
+						GQAAAA==
+						</data>
+					</dict>
+					<key>SS10</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>name</key>
+						<string>SS10</string>
+						<key>port</key>
+						<data>
+						GgAAAA==
 						</data>
 					</dict>
 					<key>USR1</key>
