@@ -123,6 +123,19 @@
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,1,0/0,0</string>
+				<key>device-id</key>
+				<data>EGg=</data>
+				<key>device_type</key>
+				<string>VGA compatible controller</string>
+				<key>fb_name</key>
+				<string>Futomaki</string>
+				<key>model</key>
+				<string>Radeon R7 370X</string>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
