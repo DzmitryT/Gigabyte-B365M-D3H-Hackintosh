@@ -1,4 +1,4 @@
-# Gigabyte B365M D3H based Hackintosh (macOS 11.2.2 Big Sur)
+# Gigabyte B365M D3H based Hackintosh (macOS 11.4 Big Sur)
 
 
 ## Specification
