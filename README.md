@@ -18,7 +18,7 @@
 ## Limitations
 
 * Sleep/WakeUP issues
-* HDMI issues
+* Internal GPU HDMI issues (additional tests required)
 * 4k resolution supported via external GPU
 * VoodoPS2 kext is required for PS/2 input devices
 
